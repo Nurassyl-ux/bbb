@@ -1,0 +1,56 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    background-color: #b4cef4;
+
+}
+.section {
+    background-color: white;
+    border: white;
+    border-radius: 5px;
+    padding: 30px;
+    font-family: "PT Sans", sans-serif;
+    margin-top: 200px;
+}
+h1 {
+    margin: 0;
+    text-align: center;
+    font-size: large;
+    padding-bottom: 20px;
+}
+p {
+    margin: 0;
+    text-align: center;
+    font-size: small;
+    padding-bottom: 25px;
+}
+.bad {
+    margin: auto;
+    text-align: center;
+    display: inline;
+    
+}
+.input {
+    height: 30px;
+    width: 300px;
+    color: black;
+    margin-bottom: 15px;
+}
+.button {
+    height: 35px;
+    width: 150px;
+    color: white;
+    background-color: #599df8;
+    border-radius: 5px;
+}
+.non {
+    font-size: small;
+    width: 300px;
+    justify-content: center;
+    align-content: start;
+
+
+}
